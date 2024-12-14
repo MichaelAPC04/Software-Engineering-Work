@@ -1,0 +1,6 @@
+module_id|module_name|content
+1|Week 1 - Variables, Statements and Expressions|Data types : int, str, float,print,input expression
+2|Week 2 - condition and Iteration|Loops: 'while',boolean 'false','true'
+3|Week 3 - Iteration (for loop) and sequences|for loop,strings,lists,tuples
+4|Week 4 - Dictionaries, Functions, Scoping and Namespaces|dictionary --> {key, data}
+

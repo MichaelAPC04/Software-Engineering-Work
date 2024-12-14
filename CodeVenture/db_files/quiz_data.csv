@@ -1,0 +1,5 @@
+quiz_id|questions|answers|explanation
+1|[which data type is not valid in python? 1.int, 2.str 3.float 4.eng]|4|"In Python, 'eng' is not a valid data type."
+2|[what can you do to avoid an infinite while loop? 1. Use the "break" statement 2. Use a counter 3. Use the "continue" statement 4. Turn off your computer]|2|"Using a counter can help to limit the number of iterations and prevent infinite loops."
+3|[what is an item in a loop? 1. Each element in the collection that is being traversed 2. The loop itself 3. All of the above 4. None of the above]|1|"In a loop, an item refers to each element in the collection that is being traversed."
+4|[Does dictionary can hold any of data in key and data? Choose True or False]|True|"A dictionary in Python can have keys and values of any data type."

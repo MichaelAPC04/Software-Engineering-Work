@@ -1,0 +1,10 @@
+quiz_id|questions|answers|explanation
+1|[Who developed Python Programming Language? 1. Wick van Rossum 2. Rasmus Lerdorf 3. Guido van Rossum 4. Niene Stom]|3|Guido van Rossum developed Python.
+2|[Which type of Programming does Python support? 1. object-oriented programming 2. structured programming 3. functional programming 4. all of the mentioned]|1|Python supports object-oriented programming.
+3|[Is Python case sensitive when dealing with identifiers? 1. no 2. yes 3. machine dependent 4. none of the mentioned]|2|Python is case sensitive when dealing with identifiers.
+4|[What will be the value of the following Python expression? 4 + 3 % 5  1. 7 2. 2 3. 4 4. 1]|1|4 + 3 % 5 is 7.
+5|[Which of the following is used to define a block of code in Python language? 1. Indentation 2. Key 3. Brackets 4. All of the mentioned]|1|Python uses indentation to define blocks of code.
+6|[Which of the following character is used to give single-line comments in Python? 1. // 2. # 3. ! 4. /*]|1|In Python, the # character is used for single-line comments.
+7|[What does pip stand for python? 1. Pip Installs Python 2. Pip Installs Packages 3. Preferred Installer Program 4. All of the mentioned]|3|pip stands for "Preferred Installer Program".
+
+

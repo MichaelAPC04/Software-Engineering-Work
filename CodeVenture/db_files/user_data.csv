@@ -1,0 +1,10 @@
+username,email,password,securityAnswer,phoneNumber,userType,lastLogin,progress,points,challenge
+phil123,phil@gmail.com,philpw123,"['dog','cat','mouse']",4213722239,ADMIN,2023-10-30 18:14,[1],0,[]
+michael123,michael@gmail.com,frickpython123,"['panda','cat','elephant']",4213823942,PARENTS,2023-10-30 18:15,[],0,[]
+jay123,jay@gmail.com,jaypw,"['zebra','dog','cat']",4213824839,LEARNER,2023-10-30 18:18,"[1, 2]",60,"[1, 7]"
+joe123,joe@,jopw,"['1', '2', '3']",4123,LEARNER,2023-10-27 11:54,[1],10,[]
+cal,cal,calp,"['1', '2', '3']",1023,EDUCATOR,2023-10-30 18:17,[],0,[]
+joe,joe@gmail.com,joepw,"['spot', 'scotland', 'jeff']",4123123123,LEARNER,2023-10-22 10:10,[],0,[]
+philo,phil_,1234,"['cloudy', '2020', 'phil']",432,EDUCATOR,2023-10-30 15:50,[],0,[]
+learner,learner@gmail.com,learnerpw,"['1', '2', '3']",4123,LEARNER,2023-10-30 17:54,"[1, 2]",80,"[1, 3, 6]"
+parents,parents@gmail.com,parentspw,"['1', '2', '3']",4123,PARENTS,2023-10-29 22:41,[],0,[]
