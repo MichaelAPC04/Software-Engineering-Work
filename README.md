@@ -1,7 +1,7 @@
-# software-engineering-work - (HD)
+# Software-Engineering-Work - (HD)
 
 ## Final Assessment - HD
-In this unit, in a team of 4, we were tasked with creating a fullstack Python application where beginner students can learn Python. Please note that all files are the work of their original owners (where not made clear), my main contribution is in the _"ForgotPassword.py"_ file, as explicitly stated (we, as a team, collaboratively worked on the project overall and the other files in the codebase).
+In this unit, in a team of 4, we were tasked with creating a fullstack Python application where beginner students can learn Python. Please note that all files are the work (copyright protected) of their original owners (where not made clear), my main contribution is in the _"ForgotPassword.py"_ file, as explicitly stated (we, as a team, collaboratively worked on the project overall and the other files in the codebase).
 
 _Below is the historical README that was included in the original repository, explaining what this codebase (CodeVenture) is and how to use it:_
 
