@@ -19,13 +19,13 @@ _Below is the historical README that was included in the original repository, ex
 * Exit
 
 ## Admin features implemented
-* view all usernames
-* edit profile
+* View all usernames
+* Edit profile
 * Delete profile
-* logout
+* Logout
 
-## Parents and Educator features implemented
-* view students progress
+## Parents and educator features implemented
+* View students progress
 * Add a new student
 * Return to Main Menu
 
@@ -37,14 +37,14 @@ _Below is the historical README that was included in the original repository, ex
 * View points
 * Logout
 
-## create new account features
-* add details on new account (e.x. email address, username, password)
-* select the user type
+## Create new account features
+* Add details on new account (e.x. email address, username, password)
+* Select the user type
 
 ## Forgot password feature
-* input corresponding username, email
-* answer security questions
-* input new password
+* Input corresponding username, email
+* Answer security questions
+* Input new password
 
 ## Database (csv file)
 * challenge_quiz.csv
